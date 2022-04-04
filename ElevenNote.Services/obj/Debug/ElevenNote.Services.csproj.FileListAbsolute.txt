@@ -14,3 +14,9 @@ C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\E
 C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\Random\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
